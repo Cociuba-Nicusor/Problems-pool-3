@@ -1,0 +1,13 @@
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\bin\Debug\netcoreapp3.1\Pool3.4.exe
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\bin\Debug\netcoreapp3.1\Pool3.4.deps.json
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\bin\Debug\netcoreapp3.1\Pool3.4.runtimeconfig.json
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\bin\Debug\netcoreapp3.1\Pool3.4.runtimeconfig.dev.json
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\bin\Debug\netcoreapp3.1\Pool3.4.dll
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\bin\Debug\netcoreapp3.1\Pool3.4.pdb
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\obj\Debug\netcoreapp3.1\Pool3.4.csprojAssemblyReference.cache
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\obj\Debug\netcoreapp3.1\Pool3.4.AssemblyInfoInputs.cache
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\obj\Debug\netcoreapp3.1\Pool3.4.AssemblyInfo.cs
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\obj\Debug\netcoreapp3.1\Pool3.4.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\obj\Debug\netcoreapp3.1\Pool3.4.dll
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\obj\Debug\netcoreapp3.1\Pool3.4.pdb
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-3\Pool3.4\obj\Debug\netcoreapp3.1\Pool3.4.genruntimeconfig.cache

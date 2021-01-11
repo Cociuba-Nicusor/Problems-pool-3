@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.3\\Pool3.3.csproj": {}
+    "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.4\\Pool3.4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.3\\Pool3.3.csproj": {
+    "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.4\\Pool3.4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.3\\Pool3.3.csproj",
-        "projectName": "Pool3.3",
-        "projectPath": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.3\\Pool3.3.csproj",
+        "projectUniqueName": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.4\\Pool3.4.csproj",
+        "projectName": "Pool3.4",
+        "projectPath": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.4\\Pool3.4.csproj",
         "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.3\\obj\\",
+        "outputPath": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-3\\Pool3.4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",

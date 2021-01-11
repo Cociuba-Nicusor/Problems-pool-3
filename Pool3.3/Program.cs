@@ -8,7 +8,7 @@ namespace Pool3._3
         {
 
             int n, i;
-            Console.Write("n: ");
+            Console.Write("Introduceti lungimea nvectorului: ");
             n = int.Parse(Console.ReadLine());
             int[] a = new int[n];
             for ( i = 0; i < n; i++)
