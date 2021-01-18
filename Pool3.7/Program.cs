@@ -11,17 +11,17 @@ namespace Pool3._7
             //Se cere sa se inverseze ordinea elementelor din vector. 
             //Prin inversare se intelege ca primul element devine ultimul, al doilea devine penultimul etc.
             int n;
-            Console.Write("Lungime vector: ");
+            Console.Write("Introduceti lungimea vectorului: ");
             n = int.Parse(Console.ReadLine());
-            int[] vec = new int[n];
-            int[] vec2 = new int[n];
+            int[] v = new int[n];
+            int[] v1 = new int[n];
             Console.WriteLine();
             Console.Write("Vector initial: ");
             for (int i = 0; i < n; i++)
             {
                 int x = rnd.Next(10);
-                vec[i] = x;
-                Console.Write($"{vec[i]} ");
+                v[i] = x;
+                Console.Write($"{v[i]} ");
 
             }
 
@@ -29,14 +29,14 @@ namespace Pool3._7
             for (int i = 0; i < n; i++)
             {
 
-                vec2[i] = vec[n - c];
+                v1[i] = v[n - c];
                 c++;
             }
             Console.WriteLine();
             Console.Write("Vector final: ");
             for (int i = 0; i < n; i++)
             {
-                Console.Write($"{vec2[i]} ");
+                Console.Write($"{v1[i]} ");
 
             }
             Console.ReadKey();
