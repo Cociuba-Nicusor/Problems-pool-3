@@ -13,29 +13,29 @@ namespace Pool3._8
           
             {
                 int n;
-                Console.Write("Lungime vector: ");
+                Console.Write("Introduceti lungimea vectorului: ");
                 n = int.Parse(Console.ReadLine());
-
-                int[] vec = new int[n];
+                int[] v = new int[n];
                 Console.WriteLine();
                 Console.Write("Vector initial: ");
                 for (int i = 0; i < n; i++)
                 {
                     int x = rnd.Next(10);
-                    vec[i] = x;
-                    Console.Write($"{vec[i]} ");
+                    v[i] = x;
+                    Console.Write($"{v[i]} ");
                 }
-                int y = vec[0];
+                int y = v[0];
                 for (int i = 1; i < n; i++)
                 {
-                    vec[i - 1] = vec[i];
+                    v[i - 1] = v[i];
                 }
-                vec[n - 1] = y;
+                v[n - 1] = y;
 
                 Console.WriteLine();
                 Console.Write("Vector final: ");
                 for (int i = 0; i < n; i++)
-                    Console.Write($"{vec[i]} ");
+                    Console.Write($"{v[i]} ");
+                Console.ReadKey();
             }
         }
     }
