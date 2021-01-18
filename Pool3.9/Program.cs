@@ -10,35 +10,34 @@ namespace Pool3._9
         static void Main(string[] args)
         {
             int n, k;
-            Console.Write("Lungimea vector: ");
+            Console.Write("Introduceti lungimea vectorului: ");
             n = int.Parse(Console.ReadLine());
             Console.Write("Numar de rotiri: ");
             k = int.Parse(Console.ReadLine());
-
-            int[] vec = new int[n];
+            int[] a = new int[n];
             Console.WriteLine();
             Console.Write("Vector initial: ");
             for (int i = 0; i < n; i++)
             {
                 int x = rnd.Next(10);
-                vec[i] = x;
-                Console.Write($"{vec[i]} ");
+                a [i] = x;
+                Console.Write($"{a[i]} ");
             }
 
             for (int j = 0; j < k; j++)
             {
-                int y = vec[0];
+                int y = a[0];
                 for (int i = 1; i < n; i++)
                 {
-                    vec[i - 1] = vec[i];
+                    a[i - 1] = a[i];
                 }
-                vec[n - 1] = y;
+                a[n - 1] = y;
             }
             Console.WriteLine();
             Console.Write("Vector final: ");
             for (int i = 0; i < n; i++)
-                Console.Write($"{vec[i]} ");
-
+                Console.Write($"{a[i]} ");
+            Console.ReadKey();
         }
     }
 }
